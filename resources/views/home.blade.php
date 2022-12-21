@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1> {{ $saluto }}sss </h1>
+    <h1> {{ $saluto }} </h1>
 </body>
 
 </html>
