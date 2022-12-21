@@ -1,0 +1,21 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+ul li{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
