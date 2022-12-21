@@ -20,6 +20,9 @@
         <div class="img">
             <img src="https://media.gqitalia.it/photos/5cc2c034d91c291ba14e9ec9/master/w_1600%2Cc_limit/Meme%2520Terrapiattisti4.png" alt="">
         </div>
+        <p>
+            LA TERRA è PIATTA!
+        </p>
     @endif
 
         <ul>
