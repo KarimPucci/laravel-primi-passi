@@ -24,13 +24,13 @@
             LA TERRA è PIATTA!
         </p>
     @endif
-
-        <ul>
-            @foreach ($informazioni as $info)
-                <li> {{ $info }} </li>
-            @endforeach
-        </ul>
-
+        @if ($stampa_immagine)
+            <ul>
+                @foreach ($informazioni as $info)
+                    <li> {{ $info }} </li>
+                @endforeach
+            </ul>
+        @endif
 </body>
 
 </html>
